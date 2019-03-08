@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/it_manhinh"
+            android:title="Màn hình chính"></item>
+        <item
+
+            android:id="@+id/it_danhmuc"
+            android:title="Phân loại, danh mục"></item>
+        <item
+            android:id="@+id/it_dsHanghoa"
+            android:title="Danh sách hàng hóa"></item>
+        <item
+            android:id="@+id/it_dsHoadon"
+            android:title="Danh sách hóa đơn"></item>
+        <item
+            android:id="@+id/thongke"
+            android:title="Thống kê"></item>
+        <item
+            android:id="@+id/dsKhachhang"
+            android:title="Danh sách khách hàng"></item>
+    </group>
+    <item android:title="Thông tin thêm">
+        <menu>
+            <item
+                android:id="@+id/it_thongtinCH"
+                android:title="Thông tin của hàng"></item>
+            <item
+                android:id="@+id/it_huongdanSD"
+                android:title="Hướng dẫn sử dụng"></item>
+            <item
+                android:id="@+id/it_lienheGY"
+                android:title="Liên hệ, góp ý"></item>
+        </menu>
+    </item>
+
+</menu>

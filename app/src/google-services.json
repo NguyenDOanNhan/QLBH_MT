@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794975672997",
+    "firebase_url": "https://mathang-cb4ed.firebaseio.com",
+    "project_id": "mathang-cb4ed",
+    "storage_bucket": "mathang-cb4ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794975672997:android:0f0c8cb7975be168",
+        "android_client_info": {
+          "package_name": "nguyendoannhan.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794975672997-vttd8urpud4ms3i7dp4snpvt3tpb87eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nguyendoannhan.com",
+            "certificate_hash": "49806ed23ac347e92d940996cc3c9cc2f658f744"
+          }
+        },
+        {
+          "client_id": "794975672997-2gdelu17erre9mnp4hd3ed1o4puc2gci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6LR3PpNyHgmDjQdq8zFtfoq2zlm_LFek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794975672997-2gdelu17erre9mnp4hd3ed1o4puc2gci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
