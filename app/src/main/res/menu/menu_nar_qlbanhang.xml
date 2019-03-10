@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu
-    
+
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:showIn="navigation_view">
     <group android:checkableBehavior="single">
         <item
+            android:icon="@drawable/ic_home_black1_24dp"
             android:id="@+id/it_manhinh"
             android:title="Màn hình chính"></item>
         <item
-
+            android:icon="@drawable/ic_list_product_24dp"
             android:id="@+id/it_danhmuc"
             android:title="Phân loại, danh mục"></item>
         <item
+            android:icon="@drawable/ic_list_product"
             android:id="@+id/it_dsHanghoa"
             android:title="Danh sách hàng hóa"></item>
         <item
+            android:icon="@drawable/ic_bill"
             android:id="@+id/it_dsHoadon"
             android:title="Danh sách hóa đơn"></item>
         <item
+            android:icon="@drawable/ic_statistic_icon"
             android:id="@+id/thongke"
             android:title="Thống kê"></item>
         <item
+            android:icon="@drawable/users_icon"
             android:id="@+id/dsKhachhang"
-            android:title="Danh sách khách hàng"></item>
+            android:title="Danh sách khách hàng" />
     </group>
-    <item android:title="Thông tin thêm">
+    <item
+
+        android:title="Thông tin thêm">
         <menu>
             <item
                 android:id="@+id/it_thongtinCH"
